@@ -305,7 +305,7 @@
                 </gmd:CI_Citation>
               </gmd:citation>
               <gmd:abstract>
-                <gco:CharacterString> Updated 10:32. NCAR Global Climate Four-Dimensional Data Assimilation (CFDDA) Hourly 40 km Reanalysis dataset is a dynamically-downscaled dataset with high temporal and spatial resolution that was created using NCAR's CFDDA system. At the core of the CFDDA system is the 5th generation Pennsylvania State University / NCAR mesoscale model (MM5).
+                <gco:CharacterString> Updated 10:49. NCAR Global Climate Four-Dimensional Data Assimilation (CFDDA) Hourly 40 km Reanalysis dataset is a dynamically-downscaled dataset with high temporal and spatial resolution that was created using NCAR's CFDDA system. At the core of the CFDDA system is the 5th generation Pennsylvania State University / NCAR mesoscale model (MM5).
 
 The dataset contains three-dimensional hourly analyses in netCDF format for the global atmospheric state from 1985 to 2005 on a 40 km horizontal grid (0.4 degree grid increment) with 28 vertical levels. As a result, the dataset provides a collection of hourly, meso-beta scale reanalyses files for all the days of the months within the 21-year period, providing good representation of local forcing and the diurnal variation of processes in the planetary boundary layer. At the time of its creation, this was the only reanalysis dataset with full three-dimensional fields available at hourly intervals.
 
