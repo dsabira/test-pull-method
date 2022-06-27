@@ -115,9 +115,7 @@
             <gmd:MD_DataIdentification>
               <gmd:citation>
                 <gmd:CI_Citation>
-                  <gmd:title>
-                    <gco:CharacterString>Test ERA-40 Global Surface and Flux Data</gco:CharacterString>
-                  </gmd:title>
+                
                   <gmd:alternateTitle>
                     <gco:CharacterString>ds117.0</gco:CharacterString>
                   </gmd:alternateTitle>
