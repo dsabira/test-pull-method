@@ -314,7 +314,7 @@
                                 <gmd:CI_ResponsibleParty>
                                     <gmd:individualName gco:nilReason="inapplicable"/>
                                     <gmd:organisationName>
-                                    <gco:CharacterString>NASA Global Change Master Directory</gco:CharacterString>
+                                    <gco:CharacterString></gco:CharacterString>
                                     </gmd:organisationName>
                                     <gmd:positionName gco:nilReason="inapplicable"/>
                                     <gmd:contactInfo>
