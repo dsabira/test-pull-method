@@ -50,10 +50,10 @@
         <gco:DateTime>2021-01-15T12:38:31.926598</gco:DateTime>
     </gmd:dateStamp>
 
-    <gmd:metadataStandardName>
+<!--     <gmd:metadataStandardName>
         <gco:CharacterString>ISO 19115 Geographic Information - Metadata</gco:CharacterString>
     </gmd:metadataStandardName>
-
+ -->
     <gmd:metadataStandardVersion>
         <gco:CharacterString>ISO 19115:2003(E)</gco:CharacterString>
     </gmd:metadataStandardVersion>
