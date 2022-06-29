@@ -70,9 +70,9 @@
                     <gmd:name>
                         <gco:CharacterString>CESM webpage</gco:CharacterString>
                     </gmd:name>
-<!--                     <gmd:description>
+                    <gmd:description>
                         <gco:CharacterString>webpage with information on CESM incuding user guides, code, and other documentation</gco:CharacterString>
-                    </gmd:description> -->
+                    </gmd:description>
                     <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeListValue="information"
                             codeList="./resources/codeList.xml#CI_OnLineFunctionCode">information</gmd:CI_OnLineFunctionCode>
