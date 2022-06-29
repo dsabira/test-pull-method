@@ -533,9 +533,9 @@
                 <gmd:MD_AggregateInformation>
                   <gmd:aggregateDataSetName>
                     <gmd:CI_Citation>
-                      <gmd:title>
+<!--                       <gmd:title>
                         <gco:CharacterString>Ocean and Atmosphere Reanalysis Datasets</gco:CharacterString>
-                      </gmd:title>
+                      </gmd:title> -->
                       <gmd:date>
                         <gmd:CI_Date>
                           <gmd:date>
