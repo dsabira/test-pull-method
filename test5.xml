@@ -20,9 +20,9 @@
 
     <gmd:contact>
         <gmd:CI_ResponsibleParty>
-            <gmd:individualName>
+<!--             <gmd:individualName>
                 <gco:CharacterString>UCAR COSMIC Program</gco:CharacterString>
-            </gmd:individualName>
+            </gmd:individualName> -->
             <gmd:organisationName>
                 <gco:CharacterString/>
             </gmd:organisationName>
