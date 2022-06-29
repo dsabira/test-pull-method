@@ -286,9 +286,9 @@
                   </gmd:keyword>
                   <gmd:thesaurusName>
                     <gmd:CI_Citation>
-                      <gmd:title>
+<!--                       <gmd:title>
                         <gco:CharacterString>U.S. National Aeronautics and Space Administration Global Change Master Directory</gco:CharacterString>
-                      </gmd:title>
+                      </gmd:title> -->
                       <gmd:alternateTitle>
                         <gco:CharacterString>GCMD</gco:CharacterString>
                       </gmd:alternateTitle>
