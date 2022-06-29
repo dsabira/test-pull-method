@@ -61,9 +61,9 @@
                     <gmd:name>
                         <gco:CharacterString>Caseroot SVN URL</gco:CharacterString>
                     </gmd:name>
-<!--                     <gmd:description>
+                    <gmd:description>
                         <gco:CharacterString>CESM Caseroot files archive including XML, user namelists and case source modifications.</gco:CharacterString>
-                    </gmd:description> -->
+                    </gmd:description>
                     <gmd:function>
                         <gmd:CI_OnLineFunctionCode codeList="./resources/codeList.xml#CI_OnLineFunctionCode" codeListValue="information">information</gmd:CI_OnLineFunctionCode>
                     </gmd:function>
