@@ -275,9 +275,9 @@
         <gmd:MD_DataIdentification>
             <gmd:citation>
                 <gmd:CI_Citation>
-<!--                     <gmd:title>
+                    <gmd:title>
                         <gco:CharacterString>CMIP6 CESM2 piControl experiment with high-top atmosphere (WACCM6) with interactive chemistry (TSMLT1), interactive land (CLM5), coupled ocean (POP2) with biogeochemistry (MARBL), interactive sea ice (CICE5.1), and non-evolving land ice (CISM2.1)</gco:CharacterString>
-                    </gmd:title> -->
+                    </gmd:title>
                     <gmd:alternateTitle>
                         <gco:CharacterString>piControl (CMIP6 Experiment ID)</gco:CharacterString>
                     </gmd:alternateTitle>
