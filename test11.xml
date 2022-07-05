@@ -93,9 +93,9 @@
     <gmd:MD_DataIdentification>
       <gmd:citation>
         <gmd:CI_Citation>
-<!--           <gmd:title>
+          <gmd:title>
             <gco:CharacterString>Monthly Northern Hemisphere Sea-Level Pressure Grids, continuing from 1899</gco:CharacterString>
-          </gmd:title> -->
+          </gmd:title>
           <gmd:alternateTitle>
             <gco:CharacterString>ds010.1</gco:CharacterString>
           </gmd:alternateTitle>
