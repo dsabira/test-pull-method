@@ -107,9 +107,9 @@
       <gmd:MD_DataIdentification>
          <gmd:citation>
             <gmd:CI_Citation>
-               <gmd:title>
+<!--                <gmd:title>
                   <gco:CharacterString>The SPARC Data Initiative: Comparisons of CFC-11, CFC-12, HF and SF6 climatologies from international satellite limb sounders</gco:CharacterString>
-               </gmd:title>
+               </gmd:title> -->
                <gmd:date>
                   <gmd:CI_Date>
                      <gmd:date>
